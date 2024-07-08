@@ -9,7 +9,7 @@
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Data Preprocessing](#data-preprocessing)
+- [Data Processing](#data-preprocessing)
 - [Model Used](#model-used)
 - [Key Insights](#key-insights)
 - [Conclusion](#Conclusion)
